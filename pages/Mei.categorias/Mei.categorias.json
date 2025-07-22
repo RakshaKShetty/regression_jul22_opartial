@@ -1,11 +1,11 @@
 {
-  "gitSyncId": "687f2e02740a4a3a0377643e_230bd22d-2f78-4a65-bc1e-f9e1d5bf9b85",
+  "gitSyncId": "687f301f740a4a3a037764bb_47a2f4be-4991-436a-a540-ef9428056631",
   "unpublishedPage": {
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 880,
+          "bottomRow": 860,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "Mei.categorias",
+    "slug": "mei-categorias"
   }
 }

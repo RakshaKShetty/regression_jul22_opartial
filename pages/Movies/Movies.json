@@ -1,5 +1,5 @@
 {
-  "gitSyncId": "687f2e02740a4a3a0377643e_230bd22d-2f78-4a65-bc1e-f9e1d5bf9b85",
+  "gitSyncId": "687f301f740a4a3a037764bb_fa1bb66b-58a7-4c99-b8a8-c79bf34c5964",
   "unpublishedPage": {
     "layouts": [
       {
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "Movies",
+    "slug": "movies"
   }
 }

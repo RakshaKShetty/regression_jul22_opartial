@@ -20,6 +20,14 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Mei.categorias",
+      "isDefault": false
+    },
+    {
+      "id": "Movies",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
